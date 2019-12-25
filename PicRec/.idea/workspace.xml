@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ace2df8c-0486-4de3-b2cd-9cc1c1b2a71f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ALL_Other/others/mitmproxy_script.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+              <folding>
+                <element signature="e#37#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonToRedis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#54#66#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/new_picture_rec.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2187">
+              <caret line="88" column="17" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/picTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1512">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tools/Pic_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+              <folding>
+                <element signature="e#25#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/t5_oss_.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="729">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dja/db.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/t4_aliyun.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1188">
+              <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+              <folding>
+                <element signature="e#25#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/pic_mse_ssim.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>similar_rate</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cv2_Test/test_requests.py" />
+        <option value="D:/VirtuanWorkon/dja/Lib/site-packages/configure.py" />
+        <option value="$PROJECT_DIR$/multiprocess_test/multiprocessing_test_1.py" />
+        <option value="$PROJECT_DIR$/multiprocess_test/multiprocessing_test_selenium_2.py" />
+        <option value="$PROJECT_DIR$/multiprocess_test/mp_test_1.py" />
+        <option value="$PROJECT_DIR$/multiprocess_test/mp_test_2.py" />
+        <option value="$PROJECT_DIR$/multiprocess_test/os_count.py" />
+        <option value="$PROJECT_DIR$/multiprocess_test/mp_test.py" />
+        <option value="$PROJECT_DIR$/multiprocess_test/mp_test_3.py" />
+        <option value="$PROJECT_DIR$/cv2_Test/GaoSi_pic.py" />
+        <option value="$PROJECT_DIR$/cv2_test_2/suanzi_pic.py" />
+        <option value="$PROJECT_DIR$/cv2_test_2/SCHARR_PIC.py" />
+        <option value="$PROJECT_DIR$/cv2_test_2/laplian_pic.py" />
+        <option value="$PROJECT_DIR$/cv2_test_2/canny_pic.py" />
+        <option value="$PROJECT_DIR$/cv2_test_2/line_pic.py" />
+        <option value="$PROJECT_DIR$/python_data/python_pandas/numpy_random.py" />
+        <option value="$PROJECT_DIR$/multiprocess_test/mult_test_2.py" />
+        <option value="$PROJECT_DIR$/multiprocess_test/mult_test.py" />
+        <option value="$PROJECT_DIR$/multiprocess_test/test_3.py" />
+        <option value="$PROJECT_DIR$/cv2_test_2/water_ling_pic.py" />
+        <option value="$PROJECT_DIR$/matplotlib_test/mat_t_2.py" />
+        <option value="$PROJECT_DIR$/matplotlib_test/mat_t_3.py" />
+        <option value="$PROJECT_DIR$/matplotlib_test/mat_t_4.py" />
+        <option value="$PROJECT_DIR$/matplotlib_test/mat_test_5.py" />
+        <option value="$PROJECT_DIR$/matplotlib_test/mat_test_6.py" />
+        <option value="$PROJECT_DIR$/matplotlib_test/mat_test_sandian_1.py" />
+        <option value="$PROJECT_DIR$/matplotlib_test/matplotlib_test_1.py" />
+        <option value="$PROJECT_DIR$/matplotlib_test/mat_test_txt_2.py" />
+        <option value="$PROJECT_DIR$/matplotlib_test/mat_tiaoxingtu_2.py" />
+        <option value="$PROJECT_DIR$/seaborn_test/s1_zhifangtu.py" />
+        <option value="$PROJECT_DIR$/seaborn_test/s1_xiangxiantu.py" />
+        <option value="$PROJECT_DIR$/seaborn_test/s1_xiaotiqing_.py" />
+        <option value="$PROJECT_DIR$/seaborn_test/s1_zhexiantu_1.py" />
+        <option value="$PROJECT_DIR$/seaborn_test/s1_image_1.py" />
+        <option value="$PROJECT_DIR$/seaborn_test/s1_animation_1.py" />
+        <option value="$PROJECT_DIR$/seaborn_test/s1_read_pic_1.py" />
+        <option value="$PROJECT_DIR$/seaborn_test/s1_bingtu_1.py" />
+        <option value="$PROJECT_DIR$/seaborn_test/s1_3D_1.py" />
+        <option value="$PROJECT_DIR$/tools/pic_test_zhifangtu.py" />
+        <option value="$PROJECT_DIR$/seaborn_test/pd_plot_box.py" />
+        <option value="$PROJECT_DIR$/match_template/match_template_1.py" />
+        <option value="$PROJECT_DIR$/tools/Pic_test.py" />
+        <option value="$PROJECT_DIR$/cv2_SSIM/ssim_copy_1_2.py" />
+        <option value="$PROJECT_DIR$/cv2_SSIM/SSIM1.py" />
+        <option value="$PROJECT_DIR$/Face_Train_test/Face_Train_1.py" />
+        <option value="$PROJECT_DIR$/cv2_test_2/cv2_ruihua_pic.py" />
+        <option value="$PROJECT_DIR$/tools/t3_wenjianjia.py" />
+        <option value="$PROJECT_DIR$/tools/t1.py" />
+        <option value="$PROJECT_DIR$/tools/t4_aliyun.py" />
+        <option value="$PROJECT_DIR$/tools/t2.py" />
+        <option value="$PROJECT_DIR$/tools/t5_oss_.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-60" />
+    <option name="y" value="29" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectId" id="1P5jvhj0gMQ6IjvFGvEDNOGh7Dx" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PicRec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PicRec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PicRec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PicRec" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ImageFile" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Pro\PicRec" />
+      <recent name="D:\WorkProject\ImageProject\PicRec\tools" />
+      <recent name="D:\WorkProject\ImageProject\PicRec" />
+      <recent name="D:\WorkProject\ImageProject\PicRec\cv2_Test" />
+      <recent name="D:\WorkProject\ImageProject\PicRec\OpenCV-python_cv" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkProject\ImageProject\PicRec\ImageFile" />
+      <recent name="D:\WorkProject\ImageProject\PicRec\ImagePY" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Pic_test">
+    <configuration name="Pic_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PicRec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/Pic_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PicRec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/t1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PicRec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/t2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t4_aliyun" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PicRec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/t4_aliyun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t5_oss_" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PicRec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/t5_oss_.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PicRec" type="Python.DjangoServer" factoryName="Django server">
+      <module name="PicRec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="dja.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8001" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.PicRec" />
+      <item itemvalue="Python.t1" />
+      <item itemvalue="Python.t2" />
+      <item itemvalue="Python.t4_aliyun" />
+      <item itemvalue="Python.t5_oss_" />
+      <item itemvalue="Python.Pic_test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Pic_test" />
+        <item itemvalue="Python.t5_oss_" />
+        <item itemvalue="Python.t4_aliyun" />
+        <item itemvalue="Python.t2" />
+        <item itemvalue="Python.t1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ace2df8c-0486-4de3-b2cd-9cc1c1b2a71f" name="Default Changelist" comment="" />
+      <created>1565171083872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565171083872</updated>
+      <workItem from="1565171085044" duration="3178000" />
+      <workItem from="1565227515793" duration="6579000" />
+      <workItem from="1565236582454" duration="7056000" />
+      <workItem from="1565312784960" duration="7388000" />
+      <workItem from="1565332448871" duration="1371000" />
+      <workItem from="1565334932856" duration="1507000" />
+      <workItem from="1565340179860" duration="643000" />
+      <workItem from="1565341623715" duration="91000" />
+      <workItem from="1565341729484" duration="1383000" />
+      <workItem from="1565573358530" duration="1198000" />
+      <workItem from="1565659389586" duration="1234000" />
+      <workItem from="1565745747621" duration="599000" />
+      <workItem from="1565832473462" duration="668000" />
+      <workItem from="1565951354142" duration="393000" />
+      <workItem from="1566178317291" duration="73000" />
+      <workItem from="1566266482546" duration="1312000" />
+      <workItem from="1566346181834" duration="3512000" />
+      <workItem from="1566432703154" duration="598000" />
+      <workItem from="1567413625756" duration="1540000" />
+      <workItem from="1567416922568" duration="598000" />
+      <workItem from="1567474233465" duration="599000" />
+      <workItem from="1567679433312" duration="223000" />
+      <workItem from="1567679753364" duration="2247000" />
+      <workItem from="1567733520805" duration="6405000" />
+      <workItem from="1567763808330" duration="599000" />
+      <workItem from="1567995659929" duration="7685000" />
+      <workItem from="1568009951877" duration="2000" />
+      <workItem from="1568009965267" duration="12953000" />
+      <workItem from="1568079389458" duration="22857000" />
+      <workItem from="1568165466058" duration="8373000" />
+      <workItem from="1568180535249" duration="17237000" />
+      <workItem from="1568252509566" duration="18839000" />
+      <workItem from="1568597830115" duration="6171000" />
+      <workItem from="1568611764787" duration="17000000" />
+      <workItem from="1568684579646" duration="17647000" />
+      <workItem from="1568769973793" duration="5819000" />
+      <workItem from="1568779221245" duration="18876000" />
+      <workItem from="1568856765493" duration="21323000" />
+      <workItem from="1568943156005" duration="8264000" />
+      <workItem from="1569202098792" duration="25329000" />
+      <workItem from="1569289545779" duration="4857000" />
+      <workItem from="1569298422453" duration="15542000" />
+      <workItem from="1569374857500" duration="13343000" />
+      <workItem from="1569399529425" duration="4690000" />
+      <workItem from="1569463635100" duration="3617000" />
+      <workItem from="1569486277223" duration="1529000" />
+      <workItem from="1569566631010" duration="3794000" />
+      <workItem from="1569720698072" duration="9089000" />
+      <workItem from="1569746328507" duration="5730000" />
+      <workItem from="1569807669735" duration="14060000" />
+      <workItem from="1570500259915" duration="10345000" />
+      <workItem from="1570585022975" duration="13861000" />
+      <workItem from="1570670914889" duration="10428000" />
+      <workItem from="1570758401125" duration="6482000" />
+      <workItem from="1570846373423" duration="1870000" />
+      <workItem from="1571018050040" duration="411000" />
+      <workItem from="1571022569286" duration="2156000" />
+      <workItem from="1571102575412" duration="1198000" />
+      <workItem from="1571189936895" duration="12578000" />
+      <workItem from="1571276113554" duration="598000" />
+      <workItem from="1571296490694" duration="4447000" />
+      <workItem from="1571363194752" duration="599000" />
+      <workItem from="1571370815959" duration="10642000" />
+      <workItem from="1571708039520" duration="3477000" />
+      <workItem from="1571794263193" duration="5307000" />
+      <workItem from="1571819630414" duration="5109000" />
+      <workItem from="1571881945255" duration="253000" />
+      <workItem from="1571882470472" duration="18085000" />
+      <workItem from="1571967603253" duration="20897000" />
+      <workItem from="1572226348035" duration="19864000" />
+      <workItem from="1572312606632" duration="22186000" />
+      <workItem from="1572399816014" duration="8818000" />
+      <workItem from="1572485452370" duration="14280000" />
+      <workItem from="1572572693774" duration="10957000" />
+      <workItem from="1572830912971" duration="14801000" />
+      <workItem from="1572861521208" duration="804000" />
+      <workItem from="1572917210090" duration="599000" />
+      <workItem from="1572934738469" duration="599000" />
+      <workItem from="1573003902976" duration="599000" />
+      <workItem from="1573005211812" duration="244000" />
+      <workItem from="1573005585953" duration="599000" />
+      <workItem from="1573090047801" duration="1548000" />
+      <workItem from="1573472434010" duration="58000" />
+      <workItem from="1574314661863" duration="599000" />
+      <workItem from="1575423116383" duration="296000" />
+      <workItem from="1575463580671" duration="566000" />
+      <workItem from="1576323949755" duration="317000" />
+      <workItem from="1576421258974" duration="877000" />
+      <workItem from="1576455665125" duration="585000" />
+      <workItem from="1576466275681" duration="589000" />
+      <workItem from="1576496195091" duration="1030000" />
+      <workItem from="1576552432788" duration="593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="186754000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49712092" visible="true" weight="0.20121029" />
+      <window_info id="Structure" order="1" sideWeight="0.5028791" side_tool="true" weight="0.14697802" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42880523" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934355" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.4017857" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PicRec$pandas9_Map_Replace.coverage" NAME="pandas9_Map_Replace Coverage Results" MODIFIED="1569376679223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_pandas" />
+    <SUITE FILE_PATH="coverage/PicRec$pandas2_pivot.coverage" NAME="pandas2_pivot Coverage Results" MODIFIED="1569305973011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_pandas" />
+    <SUITE FILE_PATH="coverage/PicRec$new_picture_rec.coverage" NAME="new_picture_rec Coverage Results" MODIFIED="1568270536533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/PicRec$apscheduler2.coverage" NAME="apscheduler2 Coverage Results" MODIFIED="1569751681503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$image5.coverage" NAME="image5 Coverage Results" MODIFIED="1568013684078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$pandas3_series.coverage" NAME="pandas3_series Coverage Results" MODIFIED="1571378022013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_pandas" />
+    <SUITE FILE_PATH="coverage/PicRec$cv2_add_sub_mul_div.coverage" NAME="cv2_add_sub_mul_div Coverage Results" MODIFIED="1571885444672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_Test" />
+    <SUITE FILE_PATH="coverage/PicRec$smtp_lib_mail.coverage" NAME="smtp_lib_mail Coverage Results" MODIFIED="1569568649517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$smtp_lib_mail2.coverage" NAME="smtp_lib_mail2 Coverage Results" MODIFIED="1569570926803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$image3__1_.coverage" NAME="image3 (1) Coverage Results" MODIFIED="1568012656937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$mat_tiaoxingtu_2.coverage" NAME="mat_tiaoxingtu_2 Coverage Results" MODIFIED="1572330267452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib_test" />
+    <SUITE FILE_PATH="coverage/PicRec$filter_2d.coverage" NAME="filter_2d Coverage Results" MODIFIED="1571898495409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_Test" />
+    <SUITE FILE_PATH="coverage/PicRec$pandas10_1.coverage" NAME="pandas10_1 Coverage Results" MODIFIED="1569379666756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_pandas" />
+    <SUITE FILE_PATH="coverage/PicRec$python_to_redis.coverage" NAME="python_to_redis Coverage Results" MODIFIED="1568699405490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PicRec$SSIM1.coverage" NAME="SSIM1 Coverage Results" MODIFIED="1572515162105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_SSIM" />
+    <SUITE FILE_PATH="coverage/PicRec$pandas9_Map_Replace2.coverage" NAME="pandas9_Map_Replace2 Coverage Results" MODIFIED="1569378630753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_pandas" />
+    <SUITE FILE_PATH="coverage/PicRec$mat_t_4.coverage" NAME="mat_t_4 Coverage Results" MODIFIED="1572317709204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib_test" />
+    <SUITE FILE_PATH="coverage/PicRec$pil6.coverage" NAME="pil6 Coverage Results" MODIFIED="1568257914871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imgPIL" />
+    <SUITE FILE_PATH="coverage/PicRec$mat_test_6.coverage" NAME="mat_test_6 Coverage Results" MODIFIED="1572321259017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib_test" />
+    <SUITE FILE_PATH="coverage/PicRec$image5_1.coverage" NAME="image5_1 Coverage Results" MODIFIED="1568019484437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$numpy3_ndarray.coverage" NAME="numpy3_ndarray Coverage Results" MODIFIED="1568786744223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_numpy" />
+    <SUITE FILE_PATH="coverage/PicRec$imgCV2.coverage" NAME="imgCV2 Coverage Results" MODIFIED="1568281787591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imgPIL" />
+    <SUITE FILE_PATH="coverage/PicRec$timeDate1.coverage" NAME="timeDate1 Coverage Results" MODIFIED="1569486924648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$t2.coverage" NAME="t2 Coverage Results" MODIFIED="1572851345537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/PicRec$apscheduler3.coverage" NAME="apscheduler3 Coverage Results" MODIFIED="1569751701237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$cv1_1.coverage" NAME="cv1_1 Coverage Results" MODIFIED="1569294271151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV-python_cv" />
+    <SUITE FILE_PATH="coverage/PicRec$cv2_numpy.coverage" NAME="cv2_numpy Coverage Results" MODIFIED="1571823898293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_Test" />
+    <SUITE FILE_PATH="coverage/PicRec$image21_1.coverage" NAME="image21_1 Coverage Results" MODIFIED="1569230701093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$image17_1.coverage" NAME="image17_1 Coverage Results" MODIFIED="1569220056370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$custom_erzhihua_pic.coverage" NAME="custom_erzhihua_pic Coverage Results" MODIFIED="1571974017460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_Test" />
+    <SUITE FILE_PATH="coverage/PicRec$line_pic.coverage" NAME="line_pic Coverage Results" MODIFIED="1572234564912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_test_2" />
+    <SUITE FILE_PATH="coverage/PicRec$image11_1.coverage" NAME="image11_1 Coverage Results" MODIFIED="1568095906829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$manage.coverage" NAME="manage Coverage Results" MODIFIED="1568197593668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PicRec$s1_zhexiantu_1.coverage" NAME="s1_zhexiantu_1 Coverage Results" MODIFIED="1572336327172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seaborn_test" />
+    <SUITE FILE_PATH="coverage/PicRec$numpy10_nd.coverage" NAME="numpy10_nd Coverage Results" MODIFIED="1568973138428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_numpy" />
+    <SUITE FILE_PATH="coverage/PicRec$picTest.coverage" NAME="picTest Coverage Results" MODIFIED="1571301996254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/PicRec$os_count.coverage" NAME="os_count Coverage Results" MODIFIED="1571990008067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_test" />
+    <SUITE FILE_PATH="coverage/PicRec$numpy6_IO.coverage" NAME="numpy6_IO Coverage Results" MODIFIED="1568795026994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_numpy" />
+    <SUITE FILE_PATH="coverage/PicRec$cv2_bitwise_.coverage" NAME="cv2_bitwise_ Coverage Results" MODIFIED="1571886665430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_Test" />
+    <SUITE FILE_PATH="coverage/PicRec$other_exercise_extend.coverage" NAME="other_exercise_extend Coverage Results" MODIFIED="1570517188296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$image11_2.coverage" NAME="image11_2 Coverage Results" MODIFIED="1568109698193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$image5_2.coverage" NAME="image5_2 Coverage Results" MODIFIED="1568796693202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$stmp_lib_mail.coverage" NAME="stmp_lib_mail Coverage Results" MODIFIED="1569567557504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$water_ling_pic.coverage" NAME="water_ling_pic Coverage Results" MODIFIED="1572256888241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_test_2" />
+    <SUITE FILE_PATH="coverage/PicRec$image18_1.coverage" NAME="image18_1 Coverage Results" MODIFIED="1569222489479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$apseduler6_mysql.coverage" NAME="apseduler6_mysql Coverage Results" MODIFIED="1569822449986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$pd_plot_box.coverage" NAME="pd_plot_box Coverage Results" MODIFIED="1572487904398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seaborn_test" />
+    <SUITE FILE_PATH="coverage/PicRec$er_zhi_hua_pic.coverage" NAME="er_zhi_hua_pic Coverage Results" MODIFIED="1571913255316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_Test" />
+    <SUITE FILE_PATH="coverage/PicRec$pil4.coverage" NAME="pil4 Coverage Results" MODIFIED="1568256908846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imgPIL" />
+    <SUITE FILE_PATH="coverage/PicRec$pil7.coverage" NAME="pil7 Coverage Results" MODIFIED="1568269898667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imgPIL" />
+    <SUITE FILE_PATH="coverage/PicRec$cv2_read.coverage" NAME="cv2_read Coverage Results" MODIFIED="1571802101235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_Test" />
+    <SUITE FILE_PATH="coverage/PicRec$python_mysql_delete.coverage" NAME="python_mysql_delete Coverage Results" MODIFIED="1568621170560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imgPIL" />
+    <SUITE FILE_PATH="coverage/PicRec$mp_test_1.coverage" NAME="mp_test_1 Coverage Results" MODIFIED="1571996855800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_test" />
+    <SUITE FILE_PATH="coverage/PicRec$pandas10_2.coverage" NAME="pandas10_2 Coverage Results" MODIFIED="1569382169501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_pandas" />
+    <SUITE FILE_PATH="coverage/PicRec$python_mysql_insert.coverage" NAME="python_mysql_insert Coverage Results" MODIFIED="1568614356322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imgPIL" />
+    <SUITE FILE_PATH="coverage/PicRec$blur_kernel.coverage" NAME="blur_kernel Coverage Results" MODIFIED="1571895234851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_Test" />
+    <SUITE FILE_PATH="coverage/PicRec$image6_1.coverage" NAME="image6_1 Coverage Results" MODIFIED="1568083369335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$imgHash.coverage" NAME="imgHash Coverage Results" MODIFIED="1568000281581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImageExercise" />
+    <SUITE FILE_PATH="coverage/PicRec$schedule2.coverage" NAME="schedule2 Coverage Results" MODIFIED="1569740593459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$image3.coverage" NAME="image3 Coverage Results" MODIFIED="1568796074041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$image18_2.coverage" NAME="image18_2 Coverage Results" MODIFIED="1569225253562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$image9_1.coverage" NAME="image9_1 Coverage Results" MODIFIED="1568086497966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$numpy2.coverage" NAME="numpy2 Coverage Results" MODIFIED="1568785816003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_numpy" />
+    <SUITE FILE_PATH="coverage/PicRec$pandas14_if_not.coverage" NAME="pandas14_if_not Coverage Results" MODIFIED="1569751550016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_pandas" />
+    <SUITE FILE_PATH="coverage/PicRec$numpy8_linalg.coverage" NAME="numpy8_linalg Coverage Results" MODIFIED="1568868475517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_numpy" />
+    <SUITE FILE_PATH="coverage/PicRec$cv2_1.coverage" NAME="cv2_1 Coverage Results" MODIFIED="1568281352399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imgPIL" />
+    <SUITE FILE_PATH="coverage/PicRec$pic_test_zhifangtu.coverage" NAME="pic_test_zhifangtu Coverage Results" MODIFIED="1572415661092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/PicRec$image11_3.coverage" NAME="image11_3 Coverage Results" MODIFIED="1568109707800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$numpy4_nditer.coverage" NAME="numpy4_nditer Coverage Results" MODIFIED="1568788064493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_numpy" />
+    <SUITE FILE_PATH="coverage/PicRec$other_json_str_to_dict.coverage" NAME="other_json_str_to_dict Coverage Results" MODIFIED="1570674727182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$cv2_laplacian.coverage" NAME="cv2_laplacian Coverage Results" MODIFIED="1569295669413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV-python_cv" />
+    <SUITE FILE_PATH="coverage/PicRec$dict_hash.coverage" NAME="dict_hash Coverage Results" MODIFIED="1568197224946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image_Hash" />
+    <SUITE FILE_PATH="coverage/PicRec$numpy9_linalg2.coverage" NAME="numpy9_linalg2 Coverage Results" MODIFIED="1568875916228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_numpy" />
+    <SUITE FILE_PATH="coverage/PicRec$canny_pic.coverage" NAME="canny_pic Coverage Results" MODIFIED="1572232005098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_test_2" />
+    <SUITE FILE_PATH="coverage/PicRec$image5_4.coverage" NAME="image5_4 Coverage Results" MODIFIED="1568083380527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$SCHARR_PIC.coverage" NAME="SCHARR_PIC Coverage Results" MODIFIED="1572231240288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_test_2" />
+    <SUITE FILE_PATH="coverage/PicRec$t5_oss_.coverage" NAME="t5_oss_ Coverage Results" MODIFIED="1572855889109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/PicRec$add_weighted_.coverage" NAME="add_weighted_ Coverage Results" MODIFIED="1571887215503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_Test" />
+    <SUITE FILE_PATH="coverage/PicRec$t3_wenjianjia.coverage" NAME="t3_wenjianjia Coverage Results" MODIFIED="1572849180019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/PicRec$image8_1.coverage" NAME="image8_1 Coverage Results" MODIFIED="1568085148459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$suds_logging.coverage" NAME="suds_logging Coverage Results" MODIFIED="1570608652874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$schedule4.coverage" NAME="schedule4 Coverage Results" MODIFIED="1570519379803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$pandas6_index.coverage" NAME="pandas6_index Coverage Results" MODIFIED="1569320280644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_pandas" />
+    <SUITE FILE_PATH="coverage/PicRec$python_exefcise2.coverage" NAME="python_exefcise2 Coverage Results" MODIFIED="1569812718580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$image16_2.coverage" NAME="image16_2 Coverage Results" MODIFIED="1569207969821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$python_mysql_update.coverage" NAME="python_mysql_update Coverage Results" MODIFIED="1568620559739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imgPIL" />
+    <SUITE FILE_PATH="coverage/PicRec$apscheduler_logger.coverage" NAME="apscheduler_logger Coverage Results" MODIFIED="1570612768464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$image7_1.coverage" NAME="image7-1 Coverage Results" MODIFIED="1568083349996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$pic_fill_cv2.coverage" NAME="pic_fill_cv2 Coverage Results" MODIFIED="1571888118606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_Test" />
+    <SUITE FILE_PATH="coverage/PicRec$imageHash1.coverage" NAME="imageHash1 Coverage Results" MODIFIED="1568167129245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image_Hash" />
+    <SUITE FILE_PATH="coverage/PicRec$mat_t_3.coverage" NAME="mat_t_3 Coverage Results" MODIFIED="1572318037596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib_test" />
+    <SUITE FILE_PATH="coverage/PicRec$matplotlib_pic.coverage" NAME="matplotlib_pic Coverage Results" MODIFIED="1571898527304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_Test" />
+    <SUITE FILE_PATH="coverage/PicRec$request_api2.coverage" NAME="request_api2 Coverage Results" MODIFIED="1568802501474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PicRec$pil2.coverage" NAME="pil2 Coverage Results" MODIFIED="1568185067053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imgPIL" />
+    <SUITE FILE_PATH="coverage/PicRec$s1_xiangxiantu.coverage" NAME="s1_xiangxiantu Coverage Results" MODIFIED="1572334506716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seaborn_test" />
+    <SUITE FILE_PATH="coverage/PicRec$pandas13_merge.coverage" NAME="pandas13_merge Coverage Results" MODIFIED="1569393679468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_pandas" />
+    <SUITE FILE_PATH="coverage/PicRec$mult_test_2.coverage" NAME="mult_test_2 Coverage Results" MODIFIED="1572252397597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_test" />
+    <SUITE FILE_PATH="coverage/PicRec$apseduler7_mysql.coverage" NAME="apseduler7_mysql Coverage Results" MODIFIED="1570761292348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$image16_1.coverage" NAME="image16_1 Coverage Results" MODIFIED="1569205606964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$numpy_random.coverage" NAME="numpy_random Coverage Results" MODIFIED="1572243715102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_pandas" />
+    <SUITE FILE_PATH="coverage/PicRec$suanzi_pic.coverage" NAME="suanzi_pic Coverage Results" MODIFIED="1572230837192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_test_2" />
+    <SUITE FILE_PATH="coverage/PicRec$python_redis_strict.coverage" NAME="python_redis_strict Coverage Results" MODIFIED="1568703457432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imgPIL" />
+    <SUITE FILE_PATH="coverage/PicRec$image2.coverage" NAME="image2 Coverage Results" MODIFIED="1568109108166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$s1_zhifangtu.coverage" NAME="s1_zhifangtu Coverage Results" MODIFIED="1572333719494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seaborn_test" />
+    <SUITE FILE_PATH="coverage/PicRec$multiprocessing_test_selenium_2.coverage" NAME="multiprocessing_test_selenium_2 Coverage Results" MODIFIED="1571989437311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_test" />
+    <SUITE FILE_PATH="coverage/PicRec$test_requests.coverage" NAME="test_requests Coverage Results" MODIFIED="1571974651799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_Test" />
+    <SUITE FILE_PATH="coverage/PicRec$image13_1.coverage" NAME="image13_1 Coverage Results" MODIFIED="1568109770621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$multiprocessing_test_1.coverage" NAME="multiprocessing_test_1 Coverage Results" MODIFIED="1571983067802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_test" />
+    <SUITE FILE_PATH="coverage/PicRec$new_new_pic_rec.coverage" NAME="new_new_pic_rec Coverage Results" MODIFIED="1568193563016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image_Hash" />
+    <SUITE FILE_PATH="coverage/PicRec$pil3.coverage" NAME="pil3 Coverage Results" MODIFIED="1568185686810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imgPIL" />
+    <SUITE FILE_PATH="coverage/PicRec$mp_test_3.coverage" NAME="mp_test_3 Coverage Results" MODIFIED="1572227853583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_test" />
+    <SUITE FILE_PATH="coverage/PicRec$pic_erzhihua.coverage" NAME="pic_erzhihua Coverage Results" MODIFIED="1571912776456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_Test" />
+    <SUITE FILE_PATH="coverage/PicRec$image6_2.coverage" NAME="image6_2 Coverage Results" MODIFIED="1568109370795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$python_mongodb_update.coverage" NAME="python_mongodb_update Coverage Results" MODIFIED="1568613304142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imgPIL" />
+    <SUITE FILE_PATH="coverage/PicRec$configure.coverage" NAME="configure Coverage Results" MODIFIED="1571983047072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/VirtuanWorkon/dja/Lib/site-packages" />
+    <SUITE FILE_PATH="coverage/PicRec$ssim_copy_1_2.coverage" NAME="ssim_copy_1_2 Coverage Results" MODIFIED="1572514716976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_SSIM" />
+    <SUITE FILE_PATH="coverage/PicRec$image1.coverage" NAME="image1 Coverage Results" MODIFIED="1568795997697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$pandas11_sort.coverage" NAME="pandas11_sort Coverage Results" MODIFIED="1569392159113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_pandas" />
+    <SUITE FILE_PATH="coverage/PicRec$numpy_create_pic_bitwise.coverage" NAME="numpy_create_pic_bitwise Coverage Results" MODIFIED="1571824478161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_Test" />
+    <SUITE FILE_PATH="coverage/PicRec$image12_2.coverage" NAME="image12_2 Coverage Results" MODIFIED="1568098994197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$apscheduler5_job.coverage" NAME="apscheduler5_job Coverage Results" MODIFIED="1569752855409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$pandas3_series2.coverage" NAME="pandas3_series2 Coverage Results" MODIFIED="1569315209447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_pandas" />
+    <SUITE FILE_PATH="coverage/PicRec$pandas12_reName.coverage" NAME="pandas12_reName Coverage Results" MODIFIED="1569393088217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_pandas" />
+    <SUITE FILE_PATH="coverage/PicRec$cv2_ruihua_pic.coverage" NAME="cv2_ruihua_pic Coverage Results" MODIFIED="1572600430212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_test_2" />
+    <SUITE FILE_PATH="coverage/PicRec$mp_test.coverage" NAME="mp_test Coverage Results" MODIFIED="1571998225356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_test" />
+    <SUITE FILE_PATH="coverage/PicRec$s1_read_pic_1.coverage" NAME="s1_read_pic_1 Coverage Results" MODIFIED="1572339725853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seaborn_test" />
+    <SUITE FILE_PATH="coverage/PicRec$gen_login_cookie.coverage" NAME="gen_login_cookie Coverage Results" MODIFIED="1568949220305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PicRec$image_hash2.coverage" NAME="image_hash2 Coverage Results" MODIFIED="1568174288088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image_Hash" />
+    <SUITE FILE_PATH="coverage/PicRec$matplotlib_test_1.coverage" NAME="matplotlib_test_1 Coverage Results" MODIFIED="1572327841566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib_test" />
+    <SUITE FILE_PATH="coverage/PicRec$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1572849869690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/PicRec$request_api.coverage" NAME="request_api Coverage Results" MODIFIED="1571380103611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PicRec$pic_split_merge.coverage" NAME="pic_split_merge Coverage Results" MODIFIED="1571887617147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_Test" />
+    <SUITE FILE_PATH="coverage/PicRec$python_mongo.coverage" NAME="python_mongo Coverage Results" MODIFIED="1568604593183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imgPIL" />
+    <SUITE FILE_PATH="coverage/PicRec$laplian_pic.coverage" NAME="laplian_pic Coverage Results" MODIFIED="1572231406323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_test_2" />
+    <SUITE FILE_PATH="coverage/PicRec$cv2_color_transport.coverage" NAME="cv2_color_transport Coverage Results" MODIFIED="1571824988596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_Test" />
+    <SUITE FILE_PATH="coverage/PicRec$image20_1.coverage" NAME="image20_1 Coverage Results" MODIFIED="1569229468126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$image6_3.coverage" NAME="image6_3 Coverage Results" MODIFIED="1568083344219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$image10_1.coverage" NAME="image10_1 Coverage Results" MODIFIED="1568087226677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$pil1.coverage" NAME="pil1 Coverage Results" MODIFIED="1568183417453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imgPIL" />
+    <SUITE FILE_PATH="coverage/PicRec$image18_3_HoughCircles.coverage" NAME="image18_3_HoughCircles Coverage Results" MODIFIED="1569226643515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$image10_2.coverage" NAME="image10_2 Coverage Results" MODIFIED="1568088188948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$image5_3.coverage" NAME="image5_3 Coverage Results" MODIFIED="1568796384599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$numpy7_random.coverage" NAME="numpy7_random Coverage Results" MODIFIED="1568797726123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_numpy" />
+    <SUITE FILE_PATH="coverage/PicRec$s1_image_1.coverage" NAME="s1_image_1 Coverage Results" MODIFIED="1572337000044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seaborn_test" />
+    <SUITE FILE_PATH="coverage/PicRec$s1_3D_1.coverage" NAME="s1_3D_1 Coverage Results" MODIFIED="1572406332268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seaborn_test" />
+    <SUITE FILE_PATH="coverage/PicRec$smtp_lib_mail3.coverage" NAME="smtp_lib_mail3 Coverage Results" MODIFIED="1570612649716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$image15_1.coverage" NAME="image15_1 Coverage Results" MODIFIED="1568109832497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$schale1.coverage" NAME="schale1 Coverage Results" MODIFIED="1569815159334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$apscheduler1.coverage" NAME="apscheduler1 Coverage Results" MODIFIED="1570526804870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$t4_aliyun.coverage" NAME="t4_aliyun Coverage Results" MODIFIED="1572853659327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/PicRec$other_exercise_and_if.coverage" NAME="other_exercise_and_if Coverage Results" MODIFIED="1570700761054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$image7_2.coverage" NAME="image7_2 Coverage Results" MODIFIED="1568084022622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$python_mongo_find.coverage" NAME="python_mongo_find Coverage Results" MODIFIED="1568612496199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imgPIL" />
+    <SUITE FILE_PATH="coverage/PicRec$apscheduler4.coverage" NAME="apscheduler4 Coverage Results" MODIFIED="1570519395643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/Python_data_time" />
+    <SUITE FILE_PATH="coverage/PicRec$GaoSi_pic.coverage" NAME="GaoSi_pic Coverage Results" MODIFIED="1572230339800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_Test" />
+    <SUITE FILE_PATH="coverage/PicRec$pandas1.coverage" NAME="pandas1 Coverage Results" MODIFIED="1568800571764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_pandas" />
+    <SUITE FILE_PATH="coverage/PicRec$image22_1.coverage" NAME="image22_1 Coverage Results" MODIFIED="1569293276750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$pythonToRedis.coverage" NAME="pythonToRedis Coverage Results" MODIFIED="1568707736615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PicRec$Pic_test.coverage" NAME="Pic_test Coverage Results" MODIFIED="1576422340717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/PicRec$image12_1.coverage" NAME="image12_1 Coverage Results" MODIFIED="1568097238227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$s1_xiaotiqing_.coverage" NAME="s1_xiaotiqing_ Coverage Results" MODIFIED="1572339718516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seaborn_test" />
+    <SUITE FILE_PATH="coverage/PicRec$numpy1.coverage" NAME="numpy1 Coverage Results" MODIFIED="1568786535018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_numpy" />
+    <SUITE FILE_PATH="coverage/PicRec$mat_t_2.coverage" NAME="mat_t_2 Coverage Results" MODIFIED="1572316129260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib_test" />
+    <SUITE FILE_PATH="coverage/PicRec$pandas8_n_index.coverage" NAME="pandas8_n_index Coverage Results" MODIFIED="1569321495817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_pandas" />
+    <SUITE FILE_PATH="coverage/PicRec$numpy5_tongji.coverage" NAME="numpy5_tongji Coverage Results" MODIFIED="1568793592468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_numpy" />
+    <SUITE FILE_PATH="coverage/PicRec$color_split.coverage" NAME="color_split Coverage Results" MODIFIED="1571825762818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_Test" />
+    <SUITE FILE_PATH="coverage/PicRec$mp_test_2.coverage" NAME="mp_test_2 Coverage Results" MODIFIED="1571997493206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_test" />
+    <SUITE FILE_PATH="coverage/PicRec$python_redis_connect.coverage" NAME="python_redis_connect Coverage Results" MODIFIED="1568627945878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imgPIL" />
+    <SUITE FILE_PATH="coverage/PicRec$redisToLinux.coverage" NAME="redisToLinux Coverage Results" MODIFIED="1571386582398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PicRec$pandas7_NAN.coverage" NAME="pandas7_NAN Coverage Results" MODIFIED="1569321206745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_pandas" />
+    <SUITE FILE_PATH="coverage/PicRec$mat_test_sandian_1.coverage" NAME="mat_test_sandian_1 Coverage Results" MODIFIED="1572327875544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib_test" />
+    <SUITE FILE_PATH="coverage/PicRec$pandas5_io.coverage" NAME="pandas5_io Coverage Results" MODIFIED="1569319638374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_pandas" />
+    <SUITE FILE_PATH="coverage/PicRec$mat_test_5.coverage" NAME="mat_test_5 Coverage Results" MODIFIED="1572320190728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib_test" />
+    <SUITE FILE_PATH="coverage/PicRec$erzhihua_mean.coverage" NAME="erzhihua_mean Coverage Results" MODIFIED="1571971885314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2_Test" />
+    <SUITE FILE_PATH="coverage/PicRec$python_mysql.coverage" NAME="python_mysql Coverage Results" MODIFIED="1568629743429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imgPIL" />
+    <SUITE FILE_PATH="coverage/PicRec$s1_bingtu_1.coverage" NAME="s1_bingtu_1 Coverage Results" MODIFIED="1572335949243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/seaborn_test" />
+    <SUITE FILE_PATH="coverage/PicRec$image4.coverage" NAME="image4 Coverage Results" MODIFIED="1568109152815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$mult_test.coverage" NAME="mult_test Coverage Results" MODIFIED="1572254495246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_test" />
+    <SUITE FILE_PATH="coverage/PicRec$image14_1.coverage" NAME="image14_1 Coverage Results" MODIFIED="1568109816521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ImagePY" />
+    <SUITE FILE_PATH="coverage/PicRec$pandas4_DataFrame.coverage" NAME="pandas4_DataFrame Coverage Results" MODIFIED="1569315731835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data/python_pandas" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/matplotlib_test/mat_t_4.py" />
+    <entry file="file://$PROJECT_DIR$/matplotlib_test/mat_test_5.py" />
+    <entry file="file://$PROJECT_DIR$/matplotlib_test/mat_t_3.py" />
+    <entry file="file://$PROJECT_DIR$/matplotlib_test/mat_test_6.py" />
+    <entry file="file://$PROJECT_DIR$/matplotlib_test/mat_test_sandian_1.py" />
+    <entry file="file://$PROJECT_DIR$/matplotlib_test/matplotlib_test_1.py" />
+    <entry file="file://$PROJECT_DIR$/matplotlib_test/mat_tiaoxingtu_2.py" />
+    <entry file="file://$PROJECT_DIR$/matplotlib_test/mat_test_txt_2.py" />
+    <entry file="file://$PROJECT_DIR$/seaborn_test/s1_zhifangtu.py" />
+    <entry file="file://D:/VirtuanWorkon/dja/Lib/site-packages/matplotlib/pyplot.py" />
+    <entry file="file://$PROJECT_DIR$/seaborn_test/s1_xiangxiantu.py" />
+    <entry file="file://$PROJECT_DIR$/seaborn_test/s1_xiaotiqing_.py" />
+    <entry file="file://$PROJECT_DIR$/seaborn_test/3D.jpg" />
+    <entry file="file://$PROJECT_DIR$/seaborn_test/s1_animation_1.py" />
+    <entry file="file://$PROJECT_DIR$/seaborn_test/s1_bingtu_1.py" />
+    <entry file="file://$PROJECT_DIR$/seaborn_test/s1_zhexiantu_1.py" />
+    <entry file="file://$PROJECT_DIR$/seaborn_test/s1_image_1.py" />
+    <entry file="file://$PROJECT_DIR$/seaborn_test/s1_3D_1.py" />
+    <entry file="file://$PROJECT_DIR$/cv2_Test/img12.jpg" />
+    <entry file="file://$PROJECT_DIR$/cv2_Test/img11.jpg" />
+    <entry file="file://$PROJECT_DIR$/cv2_Test/img11.png" />
+    <entry file="file://D:/VirtuanWorkon/dja/Lib/site-packages/tensorflow/__init__.py" />
+    <entry file="file://$USER_HOME$/Desktop/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/seaborn_test/pd_plot_box.py" />
+    <entry file="file://$PROJECT_DIR$/match_template/match_template_1.py" />
+    <entry file="file://$PROJECT_DIR$/cv2_SSIM/SSIM1.py" />
+    <entry file="file://$PROJECT_DIR$/cv2_SSIM/ssim_copy_1_2.py" />
+    <entry file="file://$PROJECT_DIR$/cv2_Test/img14.jpg" />
+    <entry file="file://$PROJECT_DIR$/cv2_Test/img16.jpg" />
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/191075149/cv2/cv2/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/tools/pic_test_zhifangtu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#25#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/191075149/builtins.py" />
+    <entry file="file://D:/Language/Python3/python368/Lib/datetime.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/shutil.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/VirtuanWorkon/dja/Lib/site-packages/oss2/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Face_Train_test/Face_Train_1.py" />
+    <entry file="file://$PROJECT_DIR$/cv2_test_2/cv2_ruihua_pic.py" />
+    <entry file="file://$PROJECT_DIR$/seaborn_test/s1_read_pic_1.py" />
+    <entry file="file://$PROJECT_DIR$/tools/t1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/t3_wenjianjia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding>
+            <element signature="e#21#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/t2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALL_Other/others/mitmproxy_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding>
+            <element signature="e#37#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonToRedis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#54#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/new_picture_rec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2187">
+          <caret line="88" column="17" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/picTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/t5_oss_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dja/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/t4_aliyun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          <folding>
+            <element signature="e#25#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/pic_mse_ssim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/Pic_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <element signature="e#25#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

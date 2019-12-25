@@ -1,0 +1,35 @@
+{
+  "DATABASES": {
+    "default": {
+      "ENGINE": "django.db.backends.mysql",
+      "NAME": "alitable",
+      "USER": "root",
+      "PASSWORD": "123456",
+      "HOST": "localhost",
+      "PORT": 3306
+    }
+  },
+  "REDIS_KEY": {
+    "host": "localhost",
+    "port": 6379,
+    "decode_responses": true,
+    "db": "ali",
+    "password": ""
+  },
+  "DATABASES_LOCAL": {
+    "default": {
+      "ENGINE": "django.db.backends.mysql",
+      "NAME": "alitable",
+      "USER": "root",
+      "PASSWORD": "123456",
+      "HOST": "localhost"
+    }
+  },
+  "REDIS_KEY_LOCAL": {
+    "host": "localhost",
+    "port": 6379,
+    "decode_responses": true,
+    "db": "ali",
+    "password": "123456"
+  }
+}
