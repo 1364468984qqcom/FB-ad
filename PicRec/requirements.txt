@@ -4,7 +4,7 @@ colorama==0.3.9
 Django==2.1.5
 django-filter==1.1.0
 djangorestframework==3.7.7
-httpie==0.9.9
+httpie==3.1.0
 idna==2.6
 ImageHash==4.0
 Markdown==2.6.11
